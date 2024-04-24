@@ -1,0 +1,3 @@
+# Evitar la conversión de finales de línea en archivos binarios
+*.dylib -text
+*.dll -text
