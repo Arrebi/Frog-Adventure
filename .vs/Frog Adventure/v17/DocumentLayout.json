@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arrebi\\Frog Adventure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17C80043-C3F4-3596-811C-BEF0A68104AB}|Assembly-CSharp.csproj|c:\\users\\arrebi\\frog adventure\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C80043-C3F4-3596-811C-BEF0A68104AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C80043-C3F4-3596-811C-BEF0A68104AB}|Assembly-CSharp.csproj|C:\\Users\\Arrebi\\Frog Adventure\\assets\\scripts\\player\\ensuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C80043-C3F4-3596-811C-BEF0A68104AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\ensuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C80043-C3F4-3596-811C-BEF0A68104AB}|Assembly-CSharp.csproj|C:\\Users\\Arrebi\\Frog Adventure\\assets\\scripts\\frutas\\collect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C80043-C3F4-3596-811C-BEF0A68104AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\frutas\\collect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Collect.cs",
+              "DocumentMoniker": "C:\\Users\\Arrebi\\Frog Adventure\\Assets\\Scripts\\Frutas\\Collect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Frutas\\Collect.cs",
+              "ToolTip": "C:\\Users\\Arrebi\\Frog Adventure\\Assets\\Scripts\\Frutas\\Collect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Frutas\\Collect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T23:34:56.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "enSuelo.cs",
+              "DocumentMoniker": "C:\\Users\\Arrebi\\Frog Adventure\\Assets\\Scripts\\Player\\enSuelo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\enSuelo.cs",
+              "ToolTip": "C:\\Users\\Arrebi\\Frog Adventure\\Assets\\Scripts\\Player\\enSuelo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\enSuelo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:49:57.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Arrebi\\Frog Adventure\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\Arrebi\\Frog Adventure\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAiwGMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:15:45.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
