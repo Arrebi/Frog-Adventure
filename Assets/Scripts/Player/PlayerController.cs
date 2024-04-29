@@ -34,7 +34,8 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        // Verificar si sube o baja
+        Playeranim.SetFloat("Falling", rb.velocity.y);
     }
 
     private void FixedUpdate()
@@ -80,7 +81,7 @@ public class PlayerController : MonoBehaviour
         }
 
         // Animacion de caminar
-        if((Input.GetKey("d") || Input.GetKey("right") || Input.GetKey("a") || Input.GetKey("left")))
+        if ((Input.GetKey("d") || Input.GetKey("right") || Input.GetKey("a") || Input.GetKey("left")))
         {
             Playeranim.SetBool("isMoving", true);
         }
@@ -89,16 +90,16 @@ public class PlayerController : MonoBehaviour
             Playeranim.SetBool("isMoving", false);
         }
         // Animacion salto
-        if(enSuelo.verificador)
+        if (enSuelo.verificador)
         {
             Playeranim.SetBool("inGround", true);
-            
+
         }
         else
         {
             Playeranim.SetBool("inGround", false);
             Playeranim.SetBool("isMoving", false);
-        }   
+        }
     }
 
 }
